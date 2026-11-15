@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+*.enc
+test.txt
+test-decrypted.txt
+secret.txt
